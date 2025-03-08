@@ -124,21 +124,7 @@ We also tested models trained **after PCA transformation** to observe its impact
 
 ---
 
-## **🔜 Next Steps & Future Work**
 
-🔹 **Enhance Model Performance**
-   - Apply **SMOTE oversampling** to balance churn cases.
-   - Improve **recall** to better catch at-risk churners.
-
-🔹 **Explore Advanced Models**
-   - Use **XGBoost** or **Neural Networks** to identify complex patterns.
-   - Conduct **hyperparameter tuning** for further optimization.
-
-🔹 **Power BI Deployment**
-   - Load processed datasets into **Power BI** for interactive dashboards.
-   - Generate **churn risk scores** for business users to take action.
-
----
 
 ### **📢 Final Takeaway:**
 By leveraging **machine learning and predictive analytics**, we have uncovered **critical churn drivers** and provided **actionable business strategies**. Implementing these findings can **improve customer retention, increase revenue, and reduce churn rates.** 🚀
